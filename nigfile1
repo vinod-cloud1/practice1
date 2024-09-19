@@ -1,0 +1,5 @@
+AWS EC2 is a service, which could be used for almost anything from website hosting to training machine learning models.
+
+AWS allows encrypted access to EC2 using key pairs, where a user stores its own key.
+
+One of the easiest ways to connect to running EC2 instance is by using git bash.
