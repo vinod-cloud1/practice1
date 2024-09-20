@@ -1,4 +1,9 @@
 hi this banglore git repository 
 this is bangfile1 with unwanted content 
+<<<<<<< Updated upstream
 thankyou for seeing this, yi always welcome back to waste your time.:wq
+=======
+thankyou for seeing this, you always welcome back to waste your time.
+then again came to see some code works like "stash thing" = git stash
+>>>>>>> Stashed changes
 
